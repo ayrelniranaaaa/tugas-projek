@@ -1,4 +1,5 @@
-export default function UsersPage() {
+export default function UsersPage()
+ {
     return (
         <div>
             <p>Halaman Users</p>
